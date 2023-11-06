@@ -30,7 +30,7 @@ Add any other context about the problem here.
 
 ### Pull Request Template
 
-```markdown
+
 ---
 name: Pull Request
 about: Create a pull request to add or update code.
